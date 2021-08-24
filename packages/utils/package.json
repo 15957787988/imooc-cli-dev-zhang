@@ -1,0 +1,29 @@
+{
+  "name": "@imooc-cli-dev-zhang/utils",
+  "version": "0.0.0",
+  "description": "imooc-cli-dev-zhang utils",
+  "author": "15957787988 <287306165@qq.com>",
+  "homepage": "https://github.com/15957787988/imooc-cli-dev-zhang#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://47.97.104.37:7001/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15957787988/imooc-cli-dev-zhang.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/15957787988/imooc-cli-dev-zhang/issues"
+  }
+}
